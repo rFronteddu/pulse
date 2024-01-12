@@ -1,7 +1,7 @@
 # Pulse
-Pulse is a simple library designed to provide unreliable multicast communication with embedded network diagnostic.
+Pulse is a simple java library that provides unreliable multicast communication with embedded network diagnostics.
 
-## Todo
+## Features
 - [ ] Unreliable send/receive
 - [ ] Packet Loss Estimation
 - [ ] Packet Pair
